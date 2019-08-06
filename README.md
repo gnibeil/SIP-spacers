@@ -1,6 +1,15 @@
 # SIP-spacers
 Spacers to perform geophysical spectral induced polarization (SIP) measurements at the laboratory scale
 
-A proper description of the parts and how to use them could be found in the documentation pdf file.
+## Printable STL files 
 
-The parts in the ready to print stl files can be found on thingiverse.com/gnibeil...... fix that .....
+The parts as 'ready to print' stl files can be found at: https://www.thingiverse.com/thing:3792117
+
+## Documentation
+
+* in preparation
+* hopefully soon
+
+## Collaboration
+
+* developed with Martin Sonntag
